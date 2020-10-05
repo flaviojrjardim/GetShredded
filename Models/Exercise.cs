@@ -7,7 +7,6 @@ namespace GetShredded.Models
         [Key]
         [Required]
         public int Id { get; set; }
-
         [Required]
         [MaxLength(250)]
         public string Name { get; set; }
