@@ -1,6 +1,6 @@
 # .NET Core 3.1 MVC REST API
 
-Learning a little bit about .NET Core 3.1 MVC REST API joining two of my passions, programming and bodybuilding. In this example a developed an API to create, update and delete exercises to get shredded. :muscle::sunglasses:
+Learning a little bit about .NET Core 3.1 MVC REST API joining two of my passions, programming and bodybuilding.:muscle::sunglasses:
 
 ## Endpoints
 
