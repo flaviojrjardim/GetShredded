@@ -8,7 +8,7 @@ Learning a little bit about .NET Core 3.1 MVC REST API joining two of my passion
 **GET** /api/exercises
 
 **Get Exercise by Id**\
-**GET** /api/Exercises/id
+**GET** /api/exercises/id
 
 **Create Exercise:**\
 **POST** /api/exercises
